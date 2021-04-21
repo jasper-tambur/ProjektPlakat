@@ -23,7 +23,7 @@ Projekti kõrval-eesmärk oli saada kogemus, kuidas ühte tarkvaraprojekti teha 
 ## Töövahendid ja lingid: 
 - Github
 - VS Code
-- Figma [Wireframe](https://www.figma.com/file/yeeu0HdbWkd48XS9X1wVBP/Untitled?node-id=0%3A1)
+- Figma [Prototüüp](https://www.figma.com/file/yeeu0HdbWkd48XS9X1wVBP/Untitled?node-id=0%3A1)
 
 
 ## Küsimused projekti kohta
