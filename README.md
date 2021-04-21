@@ -1,7 +1,7 @@
 # ProjektPlakat
 #### 2020∕21 projekt nr 4 "Infoekraan Saaremaa Muuseumile" toimus ajavahemikul 21.04 - 23.04.2021.
 
-Meie tiim **P4-T1"** koosnes 2 erineva kursuse õpilastest: TAK-19 ja TA-20
+Meie tiim **"P4-T1"** koosnes 2 erineva kursuse õpilastest: TAK-19 ja TA-20
 
 **Tiimiliikmed TAK-19:** 
 Jasper Tambur / Joonas Hendrik Peet / Joonas Püüding
