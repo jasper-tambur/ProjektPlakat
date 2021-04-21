@@ -13,9 +13,9 @@ Timo Pirn / Andra Vabar / Mattias A. Kaerma
 Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkvara arenduse erialal.
 
 ## Projekti idee ja eesmärk
-Projekti pea-eesmärk oli luua lahendus info edastamiseks Kuressaare lossihoovi installeeritavale ekraanile, kust mööduja saab infot lossis toimuvate näituste/ürituste ja muuseumi kontaktide kohta.
+* Projekti pea-eesmärk oli luua lahendus info edastamiseks Kuressaare lossihoovi installeeritavale ekraanile, kust mööduja saab infot lossis toimuvate näituste/ürituste ja muuseumi kontaktide kohta.
 Ekraani ülemine osa oli planeeritud ürituste plakatite ja neist üle jääv pind muuseumi info jaoks.
-Projekti kõrval-eesmärk oli saada kogemus, kuidas ühte tarkvaraprojekti teha üle veebi, kuna koroona piirangute tõttu ei olnud füüsiline kohtumine kooliruumis lubatud.
+* Projekti kõrval-eesmärk oli saada kogemus, kuidas ühte tarkvaraprojekti teha üle veebi, kuna koroona piirangute tõttu ei olnud füüsiline kohtumine kooliruumis lubatud.
 
 ## Suhtluskanalid: 
 - Teams
