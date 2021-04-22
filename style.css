@@ -23,6 +23,11 @@ body {
     height: 35rem;
 } */
 
+#poster-img {
+    width: 100%;
+}
+
+
 .poster {
     display: flex;
     justify-content: center;
