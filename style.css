@@ -28,6 +28,10 @@ body {
     margin: auto;
 }
 
+#poster-img {
+    width: 100%;
+}
+
 .info-field {
     display: flex;
     border-top: 4px solid #F6DE24;
