@@ -24,6 +24,6 @@ Ekraani ülemine osa oli planeeritud ürituste plakatite ja neist üle jääv pi
 - Github
 - VS Code
 - Figma [Prototüüp](https://www.figma.com/file/yeeu0HdbWkd48XS9X1wVBP/Untitled?node-id=0%3A1)
-
+- Google Spreadsheets [Prototüüp]
 
 ## Küsimused projekti kohta
