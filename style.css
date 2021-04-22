@@ -37,6 +37,10 @@ body {
     border-bottom: 4px solid #F6DE24;
 }
 
+#poster-img {
+    width: 100%;
+}
+
 .info-field {
     display: flex;
     height: 10rem;

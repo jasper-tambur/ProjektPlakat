@@ -8,3 +8,4 @@ let interval = setInterval(function(){
     posterImg.src = images[index];
     index = (index + 1) % 4
 }, 10000)
+
