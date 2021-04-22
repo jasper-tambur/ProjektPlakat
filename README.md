@@ -18,9 +18,9 @@ Ekraani ülemine osa oli planeeritud ürituste plakatite ja neist üle jääv pi
 * Projekti kõrval-eesmärk oli saada kogemus, kuidas ühte tarkvaraprojekti teha üle veebi, kuna koroona piirangute tõttu ei olnud füüsiline kohtumine kooliruumis lubatud.
 
 ## Töökäik
-Oleme valinud endale kaks erinevat lähenemist:
-- Läbi HTML,CSS ja JavaScripti
-- Kasutades Google Spreadsheets- millega tegime juurde admini liidese.
+Infotahvlile info kuvamiseks valisime kaks erinevat lähenemisviisi:
+- Koodi kirjutamimsel kasutati HTML, CSS ja JavaScripti, kus kogu vajalik info on kirjutatud otse koodiridadesse sisse; plakatitena kasutati suvalisi 4 erinevat draft'e, mis olid eelnevalt alla laetud, kuid mis siiski teatud intervalli tagant infolehel vahetusid.
+- Koodi kirjutamisel kasutati lisaks HTML, CSS ja JavaScriptile ja Google Spreadsheeti, millesse ehitati juurde admin-liidese. Admin-liides on vajalik selleks, et admin-kasutaja saaks iseseisvalt vastavalt vajadusele infovälja andmeid muuta. Selle variandi puhul on plakatid lisatud Google SpreadSheedil linkidena, kus admin-kasutaja saab siis linke kustutada/lisada ja ise plakati näitamise aega reguleerida.
 
 ## Suhtluskanalid: 
 - Teams
