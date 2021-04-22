@@ -17,6 +17,10 @@ Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkva
 Ekraani ülemine osa oli planeeritud ürituste plakatite ja neist üle jääv pind muuseumi info jaoks.
 * Projekti kõrval-eesmärk oli saada kogemus, kuidas ühte tarkvaraprojekti teha üle veebi, kuna koroona piirangute tõttu ei olnud füüsiline kohtumine kooliruumis lubatud.
 
+## Töökäik
+* Oleme valinud endale kaks erinevat lähenemist:
+- Läbi HTML,CSS ja JavaScripti
+
 ## Suhtluskanalid: 
 - Teams
 
