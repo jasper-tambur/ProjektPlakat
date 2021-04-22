@@ -20,6 +20,7 @@ Ekraani ülemine osa oli planeeritud ürituste plakatite ja neist üle jääv pi
 ## Töökäik
 Oleme valinud endale kaks erinevat lähenemist:
 - Läbi HTML,CSS ja JavaScripti
+- Kasutades Google Spreadsheets
 
 ## Suhtluskanalid: 
 - Teams
