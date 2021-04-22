@@ -3,7 +3,7 @@ body {
     height: 1920;
     margin: 0;
     padding: 0;
-    background-color: #0D122E;
+    background-color: #323431;
     color: #F4F5F7;
     font-family: 'Roboto', sans-serif;
     font-size: 24px;
@@ -37,6 +37,7 @@ body {
     height: 10rem;
     margin-top: 1rem;
     justify-content: space-evenly;
+    
 }
 .img{
     height: 100%;
@@ -54,11 +55,13 @@ body {
     margin-bottom: 15px;
     display: flex;
 }
+.muuseum{
+    padding-bottom: 30px;
+}
 .co svg{
     margin-right: 25px;
 }
 .img, .open-eng, .open-est, .info {
-
 }
 
 
