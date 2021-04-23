@@ -1,5 +1,5 @@
 var images = [];
-var index = 1;
+var index = 0;
 
 var posterImg = document.getElementById("poster-img");
 
@@ -13,15 +13,22 @@ var openEngSpan = document.getElementById("open-eng")
 fetch('https://spreadsheets.google.com/feeds/cells/1MkkhxU-MgcPDz5-vPpBQibAl9gr4p1DRNlPdtik7HJs/2/public/full?alt=json')
 .then(response => response.json())
 .then(data => {
-    for (let i = 2; i < data.feed.entry.length; i += 2) {
-        images.push(data.feed.entry[i].content.$t);
+    for (let i = 2; i < data.feed.entry.length; i++) {
+
+        if (data.feed.entry[i].title.$t === "C1"){
+            var setTime = parseInt(data.feed.entry[i].content.$t);
+        }
+        else {
+            images.push(data.feed.entry[i].content.$t);
+        }
+        console.log(images)
     } 
     console.log(images)
-    posterImg.src = images[0];
+    // posterImg.src = images[0];
     let interval = setInterval(function(){
         posterImg.src = images[index];
         index = (index + 1) % 4
-    }, 10000)
+    }, setTime * 1000)
 });
 
 
