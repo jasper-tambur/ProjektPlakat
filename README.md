@@ -39,4 +39,4 @@ Infotahvlile info kuvamiseks valisime kaks erinevat lähenemisviisi:
 
 **Andra Vabar:**
 1. Seekordsel projektinädalal sai kõvasti praktiseeritud distantsilt tiimitöö tegemist, mis ühest küljest tundub juba kui tavaline nähtus (arvestades, kui pikalt on distantsõpe olnud), teisalt oli projekti algusest lõpuni viimine üle veebi täiesti uutmoodi kogemus. Kuna meil ei olnud otseselt tiimijuhti, siis huvitav oli näha seda harmoonilist tiimitööd, mis kohati küll lonkas, arvestades tiimiliikmete erinevaid vanuseid/oskuseid/isikuomapärasid, aga lõppkokkuvõttes jõudsime siiski lahenduseni.
-2. Minu jaoks oli täiesti uus kogemus paariskoodimine, mille käigus sain esmakordselt kaasa mõelda ning käed külge lüüa (distantsilt).
+2. Minu jaoks oli täiesti uus kogemus paariskoodimine, mille käigus sain esmakordselt kaasa mõelda ning reaalselt koodida JavaScriptis.
