@@ -29,8 +29,8 @@ Infotahvlile info kuvamiseks valisime kaks erinevat lähenemisviisi:
 - Github
 - VS Code
 - Figma [Prototüüp](https://www.figma.com/file/yeeu0HdbWkd48XS9X1wVBP/Untitled?node-id=0%3A1)
-- Zone server (https://tak19pyyding.itmajakas.ee/ProjektPlakat-main1/)
-- Google Spreadsheets ehk Admin-liides [Prototüüp](https://docs.google.com/spreadsheets/d/1MkkhxU-MgcPDz5-vPpBQibAl9gr4p1DRNlPdtik7HJs/edit?copiedFromTrash#gid=0)
+- [Zone server] (https://tak19pyyding.itmajakas.ee/ProjektPlakat-main1/)
+- Google Spreadsheets [Admin-liides] (https://docs.google.com/spreadsheets/d/1MkkhxU-MgcPDz5-vPpBQibAl9gr4p1DRNlPdtik7HJs/edit?copiedFromTrash#gid=0)
 - 
 
 ## Küsimused projekti kohta
