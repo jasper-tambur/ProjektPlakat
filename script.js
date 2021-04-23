@@ -21,9 +21,7 @@ fetch('https://spreadsheets.google.com/feeds/cells/1MkkhxU-MgcPDz5-vPpBQibAl9gr4
         else {
             images.push(data.feed.entry[i].content.$t);
         }
-        console.log(images)
     } 
-    console.log(images)
     // posterImg.src = images[0];
     let interval = setInterval(function(){
         posterImg.src = images[index];
